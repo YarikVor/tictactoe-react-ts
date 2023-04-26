@@ -1,12 +1,10 @@
 # Project Info 
 
-## Link: [codesandbox.io](https://shorturl.at/djptV)
-
-## Description
-
 Tic-tac-toe, noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
 
 ![Tic-tac-toe image](img/image.png)
+
+*Link:* [codesandbox.io](https://shorturl.at/djptV)
 
 # Getting Started with Create React App
 
